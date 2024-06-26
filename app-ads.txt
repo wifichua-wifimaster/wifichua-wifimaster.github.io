@@ -979,3 +979,5 @@ thunder-monetize.com, 1125520627, RESELLER
 axonix.com, 59101, RESELLER, bc385f2b4a87b721
 rubiconproject.com, 26510, RESELLER, 0bfd66d529a55807b
 lijit.com, 512908, RESELLER, fafdf38b16bf6b2b
+google.com, pub-7171269809080077, DIRECT, f08c47fec0942fa0
+
