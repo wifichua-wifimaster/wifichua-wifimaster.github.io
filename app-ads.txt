@@ -5,6 +5,7 @@ applovin.com, 63c7df7a6c8336926a069294809f25f0, DIRECT
 algorix.co, 60532, RESELLER, 5b394c12fea27a1d
 contextweb.com , 562615, RESELLER, 89ff185a4c4e857c
 toponad.com, 16385e313a271a, RESELLER, 1d49fe424a1a456d
+pubmatic.com, 167188, RESELLER, 5d62403b186f2ace
 vidoomy.com, 7646534, RESELLER
 indexexchange.com, 191497, RESELLER, 50b1c356f2c5c8fc
 appnexus.com, 11450, RESELLER, f5ab79cb980f11d1
